@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ProjectAlpha/Codes/00_AboutMe/00_Introduction_Scene.unity
+    guid: cb724d1da243d5c41bf42b25ddcc2832
+  - enabled: 1
+    path: Assets/ProjectAlpha/Codes/01_MainMenu/01_MainMenu.unity
+    guid: 303608037f3c7cd47a032ea11c8bdd4d
+  - enabled: 1
+    path: Assets/ProjectAlpha/Codes/00_AboutMe/00_AboutMe.unity
+    guid: ee8eaa3034b6aea499d7991894554f34
+  - enabled: 1
+    path: Assets/ProjectAlpha/Codes/02_Game01/02_Game01.unity
+    guid: 6985469b0ad480e4f92e6d756ae2eb8c
+  - enabled: 1
+    path: Assets/ProjectAlpha/Codes/03_GameOver/03_GameOver.unity
+    guid: 27ac4ad52eabd174dabfb78836bb8de0
+  m_configObjects: {}
